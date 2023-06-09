@@ -3,7 +3,8 @@
 
  Criado durante curso em vídeo.
  
- Curso extraaordinário de Git e GitHub
+ Curso extraordinário de Git e GitHub
+ 
  Playlist youtube: https://www.youtube.com/user/cursosemvideo/playlists
  Site: https://www.cursoemvideo.com/
 
