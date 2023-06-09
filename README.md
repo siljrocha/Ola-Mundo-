@@ -3,8 +3,11 @@
 
  Criado durante curso em vídeo.
  
- Linha adicionada direto do GitHub. 
+ Curso extraaordinário de Git e GitHub
+ Playlist youtube: https://www.youtube.com/user/cursosemvideo/playlists
+ Site: https://www.cursoemvideo.com/
 
- 
+ Professor Guanabara, didática maravilhosa, super recomendo. 
+
 
 
